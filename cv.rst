@@ -126,7 +126,6 @@ Publications et production scientifique
 2013
     L Miri, G Bouvier, A Kettani, A Mikou, L Wakrim, M Nilges, TE Malliavin. *Stabilization of the integrase-DNA complex by Mg2+ ions and prediction of key residues for binding HIV-1 integrase inhibitors.* Proteins: Structure, Function, and Bioinformatics. Accepted article
 
-2013
     Y Spill, G Bouvier, M Nilges. *A convective replica-exchange method for sampling new energy basins.* Journal of Computational Chemistry. 34(2), 132-140
 
 2012

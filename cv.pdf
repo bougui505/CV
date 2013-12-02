@@ -113,9 +113,9 @@ endobj
  0
  0 ]
  /Rect [ 106.5929
- 349.7736
+ 368.7736
  323.8829
- 361.7736 ]
+ 380.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -128,9 +128,9 @@ endobj
  0
  0 ]
  /Rect [ 231.5529
- 138.7736
+ 157.7736
  448.8429
- 150.7736 ]
+ 169.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -164,9 +164,9 @@ endobj
  0
  0 ]
  /Rect [ 62.69291
- 561.7736
+ 594.7736
  532.5827
- 573.7736 ]
+ 606.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -202,7 +202,7 @@ endobj
 % 'R15': class PDFInfo 
 15 0 obj
 << /Author ()
- /CreationDate (D:20131202150933-01'00')
+ /CreationDate (D:20131202171704-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -305,7 +305,7 @@ endobj
 << /Dest [ 11 0 R
  /XYZ
  62.69291
- 282.0236
+ 301.0236
  0 ]
  /Next 25 0 R
  /Parent 16 0 R
@@ -314,10 +314,10 @@ endobj
 endobj
 % 'Outline.6': class OutlineEntryObject 
 25 0 obj
-<< /Dest [ 13 0 R
+<< /Dest [ 11 0 R
  /XYZ
  62.69291
- 765.0236
+ 112.0236
  0 ]
  /Next 26 0 R
  /Parent 16 0 R
@@ -329,7 +329,7 @@ endobj
 << /Dest [ 13 0 R
  /XYZ
  62.69291
- 654.0236
+ 687.0236
  0 ]
  /Parent 16 0 R
  /Prev 25 0 R
@@ -980,7 +980,7 @@ endobj
 % 'R30': class PDFStream 
 30 0 obj
 % page stream
-<< /Length 8226 >>
+<< /Length 8202 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1044,31 +1044,16 @@ BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2013) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 545.0236 cm
+1 0 0 1 62.69291 521.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 26 Tm  T* ET
+BT 1 0 0 1 0 50 Tm  T* ET
 q
-1 0 0 1 20 0 cm
+1 0 0 1 20 24 cm
 q
 BT 1 0 0 1 0 26 Tm 3.006235 Tw 12 TL /F1 10 Tf 0 0 0 rg (L Miri, G Bouvier, A Kettani, A Mikou, L Wakrim, M Nilges, TE Malliavin. ) Tj /F3 10 Tf (Stabilization of the) Tj T* 0 Tw 1.879982 Tw (integrase-DNA complex by Mg2+ ions and prediction of key residues for binding HIV-1 integrase) Tj T* 0 Tw (inhibitors. ) Tj /F1 10 Tf (Proteins: Structure, Function, and Bioinformatics. Accepted article) Tj T* ET
 Q
 Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 529.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2013) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 502.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 14 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
@@ -1079,14 +1064,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 486.0236 cm
+1 0 0 1 62.69291 505.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2012) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 447.0236 cm
+1 0 0 1 62.69291 466.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 26 Tm  T* ET
@@ -1100,14 +1085,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 431.0236 cm
+1 0 0 1 62.69291 450.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2010) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 404.0236 cm
+1 0 0 1 62.69291 423.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 14 Tm  T* ET
@@ -1121,14 +1106,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 388.0236 cm
+1 0 0 1 62.69291 407.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2009) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 349.0236 cm
+1 0 0 1 62.69291 368.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 26 Tm  T* ET
@@ -1142,14 +1127,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 333.0236 cm
+1 0 0 1 62.69291 352.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2008) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 294.0236 cm
+1 0 0 1 62.69291 313.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 26 Tm  T* ET
@@ -1163,19 +1148,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 261.0236 cm
+1 0 0 1 62.69291 280.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Informatique) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 249.0236 cm
+1 0 0 1 62.69291 268.0236 cm
 Q
 q
-1 0 0 1 62.69291 249.0236 cm
+1 0 0 1 62.69291 268.0236 cm
 Q
 q
-1 0 0 1 62.69291 225.0236 cm
+1 0 0 1 62.69291 244.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1196,10 +1181,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 219.0236 cm
+1 0 0 1 62.69291 238.0236 cm
 Q
 q
-1 0 0 1 62.69291 195.0236 cm
+1 0 0 1 62.69291 214.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1220,10 +1205,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 189.0236 cm
+1 0 0 1 62.69291 208.0236 cm
 Q
 q
-1 0 0 1 62.69291 177.0236 cm
+1 0 0 1 62.69291 196.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1244,10 +1229,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 171.0236 cm
+1 0 0 1 62.69291 190.0236 cm
 Q
 q
-1 0 0 1 62.69291 159.0236 cm
+1 0 0 1 62.69291 178.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1268,10 +1253,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 153.0236 cm
+1 0 0 1 62.69291 172.0236 cm
 Q
 q
-1 0 0 1 62.69291 141.0236 cm
+1 0 0 1 62.69291 160.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1291,10 +1276,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 135.0236 cm
+1 0 0 1 62.69291 154.0236 cm
 Q
 q
-1 0 0 1 62.69291 123.0236 cm
+1 0 0 1 62.69291 142.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1315,10 +1300,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 117.0236 cm
+1 0 0 1 62.69291 136.0236 cm
 Q
 q
-1 0 0 1 62.69291 105.0236 cm
+1 0 0 1 62.69291 124.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1339,7 +1324,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 105.0236 cm
+1 0 0 1 62.69291 124.0236 cm
+Q
+q
+1 0 0 1 62.69291 91.02362 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Divers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 79.02362 cm
+Q
+q
+1 0 0 1 62.69291 79.02362 cm
 Q
  
 endstream
@@ -1347,23 +1344,11 @@ endobj
 % 'R31': class PDFStream 
 31 0 obj
 % page stream
-<< /Length 2640 >>
+<< /Length 2460 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 744.0236 cm
-q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Divers) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 732.0236 cm
-Q
-q
-1 0 0 1 62.69291 732.0236 cm
-Q
-q
-1 0 0 1 62.69291 720.0236 cm
+1 0 0 1 62.69291 753.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1383,10 +1368,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 714.0236 cm
+1 0 0 1 62.69291 747.0236 cm
 Q
 q
-1 0 0 1 62.69291 702.0236 cm
+1 0 0 1 62.69291 735.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1407,10 +1392,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 696.0236 cm
+1 0 0 1 62.69291 729.0236 cm
 Q
 q
-1 0 0 1 62.69291 684.0236 cm
+1 0 0 1 62.69291 717.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1431,10 +1416,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 678.0236 cm
+1 0 0 1 62.69291 711.0236 cm
 Q
 q
-1 0 0 1 62.69291 666.0236 cm
+1 0 0 1 62.69291 699.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1455,47 +1440,47 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 666.0236 cm
+1 0 0 1 62.69291 699.0236 cm
 Q
 q
-1 0 0 1 62.69291 633.0236 cm
+1 0 0 1 62.69291 666.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (R\351f\351rences) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 621.0236 cm
+1 0 0 1 62.69291 654.0236 cm
 Q
 q
-1 0 0 1 62.69291 609.0236 cm
+1 0 0 1 62.69291 642.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Prof. Michael Nilges) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 597.0236 cm
+1 0 0 1 62.69291 630.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Directeur du d\351partement de biologie structurale et chimie) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 585.0236 cm
+1 0 0 1 62.69291 618.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Chef de l'unit\351 de bioinformatique structurale) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 573.0236 cm
+1 0 0 1 62.69291 606.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Institut Pasteur de Paris) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 561.0236 cm
+1 0 0 1 62.69291 594.0236 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -1503,7 +1488,7 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (michael.nilges@pasteur.fr) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 561.0236 cm
+1 0 0 1 62.69291 594.0236 cm
 Q
  
 endstream
@@ -1577,20 +1562,20 @@ xref
 0000005846 00000 n
 0000012789 00000 n
 0000020456 00000 n
-0000028781 00000 n
-0000031524 00000 n
-0000031656 00000 n
-0000031733 00000 n
-0000031810 00000 n
-0000031887 00000 n
+0000028757 00000 n
+0000031320 00000 n
+0000031452 00000 n
+0000031529 00000 n
+0000031606 00000 n
+0000031683 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\273P\330\272:k\3305gB%:\374l\245|) (\273P\330\272:k\3305gB%:\374l\245|)] 
+ [(+4W\013\275\227MG\331K\330\031\242\241\363M) (+4W\013\275\227MG\331K\330\031\242\241\363M)] 
 
  /Info 15 0 R
  /Root 14 0 R
  /Size 37 >>
 startxref
-31934
+31730
 %%EOF
