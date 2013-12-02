@@ -1,0 +1,1596 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 5 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:guillaume.bouvier@ens-cachan.org) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 96.58291
+ 653.7736
+ 254.0129
+ 665.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+5 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R ]
+ /Contents 28 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 27 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://algosb.sciencesconf.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 86.02291
+ 260.7736
+ 221.0929
+ 272.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Annots [ 7 0 R ]
+ /Contents 29 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 27 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.biomedicale.univ-paris5.fr/aupossom) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 106.5929
+ 349.7736
+ 323.8829
+ 361.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.biomedicale.univ-paris5.fr/aupossom) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 231.5529
+ 138.7736
+ 448.8429
+ 150.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Annots [ 9 0 R
+ 10 0 R ]
+ /Contents 30 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 27 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+12 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:michael.nilges@pasteur.fr) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 561.7736
+ 532.5827
+ 573.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page4': class PDFPage 
+13 0 obj
+% Page dictionary
+<< /Annots [ 12 0 R ]
+ /Contents 31 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 27 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R14': class PDFCatalog 
+14 0 obj
+% Document Root
+<< /Outlines 16 0 R
+ /PageLabels 32 0 R
+ /PageMode /UseNone
+ /Pages 27 0 R
+ /Type /Catalog >>
+endobj
+% 'R15': class PDFInfo 
+15 0 obj
+<< /Author ()
+ /CreationDate (D:20131202150933-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Curriculum Vit\346) >>
+endobj
+% 'R16': class PDFOutlines 
+16 0 obj
+<< /Count 11
+ /First 17 0 R
+ /Last 26 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+17 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 605.0236
+ 0 ]
+ /Next 18 0 R
+ /Parent 16 0 R
+ /Title (Cursus) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+18 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 166.0236
+ 0 ]
+ /Next 19 0 R
+ /Parent 16 0 R
+ /Prev 17 0 R
+ /Title (Enseignement et encadrement) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+19 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 544.0236
+ 0 ]
+ /Next 20 0 R
+ /Parent 16 0 R
+ /Prev 18 0 R
+ /Title (Stages) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+20 0 obj
+<< /Count 2
+ /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 368.0236
+ 0 ]
+ /First 21 0 R
+ /Last 22 0 R
+ /Next 23 0 R
+ /Parent 16 0 R
+ /Prev 19 0 R
+ /Title (Communications scientifiques) >>
+endobj
+% 'Outline.11.0': class OutlineEntryObject 
+21 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 335.0236
+ 0 ]
+ /Next 22 0 R
+ /Parent 20 0 R
+ /Title (Communications orales) >>
+endobj
+% 'Outline.11.1': class OutlineEntryObject 
+22 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 114.0236
+ 0 ]
+ /Parent 20 0 R
+ /Prev 21 0 R
+ /Title (Communications par affiche) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+23 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 623.0236
+ 0 ]
+ /Next 24 0 R
+ /Parent 16 0 R
+ /Prev 20 0 R
+ /Title (Publications et production scientifique) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+24 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 282.0236
+ 0 ]
+ /Next 25 0 R
+ /Parent 16 0 R
+ /Prev 23 0 R
+ /Title (Informatique) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+25 0 obj
+<< /Dest [ 13 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 26 0 R
+ /Parent 16 0 R
+ /Prev 24 0 R
+ /Title (Divers) >>
+endobj
+% 'Outline.7': class OutlineEntryObject 
+26 0 obj
+<< /Dest [ 13 0 R
+ /XYZ
+ 62.69291
+ 654.0236
+ 0 ]
+ /Parent 16 0 R
+ /Prev 25 0 R
+ /Title (R\351f\351rences) >>
+endobj
+% 'R27': class PDFPages 
+27 0 obj
+% page tree
+<< /Count 4
+ /Kids [ 6 0 R
+ 8 0 R
+ 11 0 R
+ 13 0 R ]
+ /Type /Pages >>
+endobj
+% 'R28': class PDFStream 
+28 0 obj
+% page stream
+<< /Length 6844 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 157.1549 0 Td (Curriculum Vit\346) Tj T* -157.1549 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 725.0236 cm
+Q
+q
+1 0 0 1 62.69291 713.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Guillaume BOUVIER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 701.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (23 rue de la Sabli\350re) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 689.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (75014 Paris) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 677.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 665.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (T\351l\351phone : 06 08 93 09 94) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 653.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (E-mail: ) Tj 0 0 .501961 rg (guillaume.bouvier@ens-cachan.org) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 641.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 629.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Nationalit\351 fran\347aise) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 617.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (N\351 le 12/01/1983 \340 CHARENTON) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 617.0236 cm
+Q
+q
+1 0 0 1 62.69291 584.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Cursus) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 566.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 515.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 38 Tm 1.499213 Tw 12 TL /F2 10 Tf 0 0 0 rg (Post-doctorat ) Tj /F1 10 Tf (\340 l'Institut Pasteur de Paris, \351quipe de bio-informatique structurale dirig\351 par le Pr.) Tj T* 0 Tw .093314 Tw (Michael Nilges. ) Tj /F3 10 Tf (D\351termination d'un mod\350le \340 haute r\351solution du pseudopilus : structure, assemblage) Tj T* 0 Tw .74248 Tw (et biochimie. \311tude statistique des trajectoires de dynamique mol\351culaire par l'utilisation de r\351seaux) Tj T* 0 Tw (neuronaux de type SOM \(Self Organizing Map\). Criblage Virtuel.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 499.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2007-2010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 448.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 38 Tm 2.299984 Tw 12 TL /F2 10 Tf 0 0 0 rg (Doctorat ) Tj /F1 10 Tf (au sein de l'\351quipe de RMN et de mod\351lisation mol\351culaire encadr\351 par le Dr Gildas) Tj T* 0 Tw 2.805976 Tw (Bertho, Laboratoire de Chimie et de Biochimie Pharmacologiques et Toxicologiques \(UMR8601) Tj T* 0 Tw 2.71248 Tw (CNRS\), en collaboration avec CellVir SAS \(Paris\). ) Tj /F3 10 Tf (\311tude par RMN et mod\351lisation mol\351culaire) Tj T* 0 Tw (d'inhibiteurs de l'int\351grase du VIH-1.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2006-2007) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 38 Tm 2.986647 Tw 12 TL /F1 10 Tf 0 0 0 rg (ENS Cachan : ) Tj /F2 10 Tf (Master 2 ) Tj /F1 10 Tf (ISFB \(Ing\351nierie Structurale et Fonctionnelle des Biomol\351cules\) ENS) Tj T* 0 Tw 6.79664 Tw (Cachan, \311cole polytechnique, INSTN \(CEA\), Universit\351 Paris 5. Unit\351s d'enseignement:) Tj T* 0 Tw 7.665681 Tw (Cristallographie des macromol\351cules biologiques, RMN des macromol\351cules biologiques,) Tj T* 0 Tw (bioinformatique) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 365.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2005-2006) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 338.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm 2.150888 Tw 12 TL /F1 10 Tf 0 0 0 rg (ENS Cachan : Pr\351paration \340 l'agr\351gation Biochimie G\351nie Biologique. Obtention de l') Tj /F2 10 Tf (agr\351gation) Tj T* 0 Tw (Biochimie G\351nie Biologique ) Tj /F1 10 Tf (\(rang 2\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 322.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2004-2005) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 295.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm .104597 Tw 12 TL /F1 10 Tf 0 0 0 rg (ENS Cachan : Deuxi\350me ann\351e du Magist\350re de Biotechnologie, ) Tj /F2 10 Tf (Master 1 ) Tj /F1 10 Tf (de Signalisation Cellulaire) Tj T* 0 Tw (& Neurosciences \(mention bien\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 279.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2003-2004) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm 1.600751 Tw 12 TL /F1 10 Tf 0 0 0 rg (ENS Cachan : Premi\350re ann\351e du Magist\350re de Biotechnologie, ) Tj /F2 10 Tf (Licence ) Tj /F1 10 Tf (de Biologie Cellulaire &) Tj T* 0 Tw (Physiologie \(mention bien\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 236.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2001-2003) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 209.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm .626647 Tw 12 TL /F2 10 Tf 0 0 0 rg (Classe pr\351paratoire BCPST ) Tj /F1 10 Tf (au lyc\351e Marcellin Berthelot \(Saint-Maur\). Admis en premi\350re ann\351e \340) Tj T* 0 Tw (l') Tj /F2 10 Tf (\311cole Normale Sup\351rieure de Cachan) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 193.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2000-2001) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 178.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Baccalaur\351at scientifique ) Tj /F1 10 Tf (sp\351cialit\351 Math\351matiques \(mention bien\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 145.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Enseignement et encadrement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 127.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2012) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 100.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.111976 Tw (Encadrement d'une stagiaire doctorante \(Laboratoire de Virologie, Institut Pasteur du Maroc,) Tj T* 0 Tw (Casablanca, Maroc\): \351tude structurale de l'int\351grase du VIH-1 par mod\351lisation mol\351culaire.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 84.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2012) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R29': class PDFStream 
+29 0 obj
+% page stream
+<< /Length 7568 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 726.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 4.20747 Tw (Encadrement d'une stagiaire doctorante \(laboratoire d'\351pid\351miologie mol\351culaire et pathologie) Tj T* 0 Tw .802976 Tw (exp\351rimentale appliqu\351e aux maladies infectieuses, Institut Pasteur de Tunis, Tunisie\): identification) Tj T* 0 Tw (et caract\351risation in silico de petites mol\351cules anti- Leishmaniennes.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 710.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2010-2011) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 671.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 26 Tm 1.296342 Tw 12 TL /F2 10 Tf 0 0 0 rg (Vacations ) Tj /F1 10 Tf (d'enseignement \340 l'Universit\351 Paris Descartes, U.F.R. Biom\351dicale des Saints-P\350res : -) Tj T* 0 Tw .704651 Tw (TP de chimie g\351n\351rale, niveau L1 \(28 heures\) - Techniques de l'information et de la communication) Tj T* 0 Tw (\(TIC\) s\351ances g\351n\351rales et cin\351tique chimique, niveau L2 \(40 heures\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 655.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2007-2010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 556.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 86 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Monitorat ) Tj /F1 10 Tf (\(192 heures\) Universit\351 Paris Descartes, U.F.R. Biom\351dicale des Saints-P\350res :) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TD de biochimie, niveau L2 \(81 heures\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TD de biologie mol\351culaire, biologie structurale et bioinfomatique, niveau L2 \(42 heures\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TP de biologie mol\351culaire et biochimie, niveau L2 \(21 heures\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.44816 Tw (Techniques de l'information et de la communication \(TIC\) en enzymologie et bioinformatique,) Tj T* 0 Tw (niveau L2 \(48 heures\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 523.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Stages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 505.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2007) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 466.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 26 Tm 4.264983 Tw 12 TL /F1 10 Tf 0 0 0 rg (Stage de 6 mois au sein du Laboratoire de Chimie et de Biochimie Pharmacologiques et) Tj T* 0 Tw 2.620814 Tw (Toxicologiques \(UMR 8601 CNRS / Universit\351 Paris Descartes\). ) Tj /F3 10 Tf (\311tude par RMN et dichro\357sme) Tj T* 0 Tw (circulaire des peptides synth\351tiques humains et ovins de la prot\351ine prion.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 450.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2005) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .186136 Tw (Stage de 7 semaines au Laboratoire de Biotechnologies et de Pharmacologie G\351n\351tique Appliqu\351e \340) Tj T* 0 Tw (l'ENS Cachan dans l'\311quipe d'enzymologie et de cin\351tique structurale.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 407.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2004) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 380.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.025697 Tw (Stage de 8 semaines au sein de l'unit\351 INSERM de pharmacologie cellulaire et mol\351culaire des) Tj T* 0 Tw (r\351cepteurs \340 l'institut Cochin \(Paris\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 347.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Communications scientifiques) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 317.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Communications orales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 299.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2013) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 236.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 50 Tm  T* ET
+q
+1 0 0 1 20 24 cm
+q
+BT 1 0 0 1 0 26 Tm 1.228976 Tw 12 TL /F1 10 Tf 0 0 0 rg (\311cole d'hiver Algorithm in Structural Bioinformatics. ) Tj /F3 10 Tf (Determination of macromolecular structure and) Tj T* 0 Tw 10.9622 Tw (dynamics from experimental data: NMR structure determination as an example.) Tj T* 0 Tw /F1 10 Tf (\() Tj 0 0 .501961 rg (http://algosb.sciencesconf.org/) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm .364597 Tw 12 TL /F1 10 Tf 0 0 0 rg (M Nilges, G Bouvier, PR Batista, Y Spill, ) Tj /F3 10 Tf (Structures of Biomolecular Complexes from Heterogeneous) Tj T* 0 Tw (Data and Bayesian Data Analysis. ) Tj /F1 10 Tf (Biophysical Journal. 104\(2\), 376a) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 220.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 205.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Conf\351rence IMTCE : ) Tj /F3 10 Tf (Criblage virtuel par l'analyse des contacts ligand-r\351cepteur.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 189.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2009) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 126.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 50 Tm  T* ET
+q
+1 0 0 1 20 24 cm
+q
+BT 1 0 0 1 0 26 Tm 2.733314 Tw 12 TL /F1 10 Tf 0 0 0 rg (Conf\351rence du Groupe d'\311tude de R\351sonance Magn\351tique \(GERM\), Fr\351jus, France. Prix de la) Tj T* 0 Tw 1.13248 Tw (meilleure communication orale sponsoris\351 par la soci\351t\351 Varian: ) Tj /F3 10 Tf (D\351couverte et \351tude de nouveaux) Tj T* 0 Tw (anti-int\351grase du VIH-1 par RMN et criblage virtuel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm 4.079147 Tw 12 TL /F1 10 Tf 0 0 0 rg (Conf\351rence RMN du Grand Bassin Parisien, ENS Ulm, Paris, France : ) Tj /F3 10 Tf (\311tude d'interactions) Tj T* 0 Tw (ligands-Int\351grase VIH-1 par exp\351riences WaterLOGSY et STD.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 96.02362 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Communications par affiche) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 78.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2010) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R30': class PDFStream 
+30 0 obj
+% page stream
+<< /Length 8226 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 714.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 24 cm
+q
+BT 1 0 0 1 0 14 Tm .875697 Tw 12 TL /F1 10 Tf 0 0 0 rg (Poster IMTCE : ) Tj /F3 10 Tf (Nouveaux inhibiteurs de l'int\351grase du VIH-1 : \311tude parall\350le par transfert-RMN et) Tj T* 0 Tw (mod\351lisation mol\351culaire.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm .721984 Tw 12 TL /F1 10 Tf 0 0 0 rg (Poster, Congr\350s Pasteur/Varian, RMN : un outil pour la biologie IX : ) Tj /F3 10 Tf (New HIV-1 integrase inhibitors:) Tj T* 0 Tw (transfer NMR and in-silico parallel study.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 698.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2009) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 635.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 50 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 14 Tm .34152 Tw 12 TL /F1 10 Tf 0 0 0 rg (Poster du Groupe d'\311tude de R\351sonance Magn\351tique \(GERM\), Fr\351jus, France : ) Tj /F3 10 Tf (D\351couverte et \351tude) Tj T* 0 Tw (de nouveaux anti-int\351grase du VIH-1 par RMN et criblage virtuel) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 26 Tm 3.171976 Tw 12 TL /F1 10 Tf 0 0 0 rg (Poster, Cambridge Healthtech Institute's Fourth Annual Drug Discovery Chemistry, San Diego,) Tj T* 0 Tw .614983 Tw (California, USA : ) Tj /F3 10 Tf (NMR and molecular modeling study of the interactions between HIV-1 integrase or) Tj T* 0 Tw (integrase-LEDGF/p75 complex and hits identified) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 602.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Publications et production scientifique) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 584.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2013) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 545.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 26 Tm 3.006235 Tw 12 TL /F1 10 Tf 0 0 0 rg (L Miri, G Bouvier, A Kettani, A Mikou, L Wakrim, M Nilges, TE Malliavin. ) Tj /F3 10 Tf (Stabilization of the) Tj T* 0 Tw 1.879982 Tw (integrase-DNA complex by Mg2+ ions and prediction of key residues for binding HIV-1 integrase) Tj T* 0 Tw (inhibitors. ) Tj /F1 10 Tf (Proteins: Structure, Function, and Bioinformatics. Accepted article) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 529.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2013) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 502.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm .25784 Tw 12 TL /F1 10 Tf 0 0 0 rg (Y Spill, G Bouvier, M Nilges. ) Tj /F3 10 Tf (A convective replica-exchange method for sampling new energy basins.) Tj T* 0 Tw /F1 10 Tf (Journal of Computational Chemistry. 34\(2\), 132-140) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 486.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2012) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 26 Tm .277251 Tw 12 TL /F1 10 Tf 0 0 0 rg (A Mantsyzov, G Bouvier, N Evrard-Todeschi, G Bertho. ) Tj /F3 10 Tf (Contact-based ligand-clustering approach for) Tj T* 0 Tw 5.529069 Tw (the identification of active compounds in virtual screening. ) Tj /F1 10 Tf (Advances and Applications in) Tj T* 0 Tw (Bioinformatics and Chemistryi. 5, 61-79) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 431.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 404.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm .33784 Tw 12 TL /F1 10 Tf 0 0 0 rg (G Bouvier, N Evrard-Todeschi, J-P Girault, G Bertho. ) Tj /F3 10 Tf (Automatic clustering of docking poses in virtual) Tj T* 0 Tw (screening process using self-organising map. ) Tj /F1 10 Tf (Bioinformatics. 26\(1\), 53-60) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 388.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2009) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 349.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 26 Tm 2.31748 Tw 12 TL /F1 10 Tf 0 0 0 rg (D\351p\364t \340 l'Agence de Protection des Programmes du logiciel: AuPosSOM \(Automatic analysis of) Tj T* 0 Tw .714252 Tw (Poses using Self-Organizing Map\) sous l'IDDN: IDDN.FR.001.260020.000.S.P.2009.000.31235. Site) Tj T* 0 Tw (web: ) Tj 0 0 .501961 rg (https://www.biomedicale.univ-paris5.fr/aupossom) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 333.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2008) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 26 Tm 1.192339 Tw 12 TL /F1 10 Tf 0 0 0 rg (G Bertho, G Bouvier, GHB Hoa and J-P Girault. ) Tj /F3 10 Tf (The key-role of tyrosine 155 in the mechanism of) Tj T* 0 Tw 3.399147 Tw (prion transconformation as highlighted by a study of sheep mutant peptides. ) Tj /F1 10 Tf (Peptides. 29\(7\),) Tj T* 0 Tw (1073-1084) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 261.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Informatique) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 249.0236 cm
+Q
+q
+1 0 0 1 62.69291 249.0236 cm
+Q
+q
+1 0 0 1 62.69291 225.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .423976 Tw (D\351veloppement d'application pour la bioinformatique \(criblage virtuel, analyse structurale\) en python) Tj T* 0 Tw (\(logiciel AuPosSOM\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 219.0236 cm
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.777251 Tw (Logiciels de RMN et bioinformatique : ARIA, XWinNMR, NMR notebook, AutoDock, UCSF-Dock,) Tj T* 0 Tw (Sybyl, Surflex, pymol, chimera, blast, gromacs, AMBER, haddock, modeller) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 189.0236 cm
+Q
+q
+1 0 0 1 62.69291 177.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Bureautique : Microsoft Office, Open Office et LaTeX) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 171.0236 cm
+Q
+q
+1 0 0 1 62.69291 159.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Langages de programmation : Python, Matlab, Scilab, scripts bash et zsh) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 153.0236 cm
+Q
+q
+1 0 0 1 62.69291 141.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (D\351veloppement d'outils internet \() Tj 0 0 .501961 rg (https://www.biomedicale.univ-paris5.fr/aupossom) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 135.0236 cm
+Q
+q
+1 0 0 1 62.69291 123.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Syst\350mes d'exploitation : Linux, macOS et Microsoft Windows) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 117.0236 cm
+Q
+q
+1 0 0 1 62.69291 105.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Syst\350me de queue SGE \(Sun Grid Engine\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 105.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R31': class PDFStream 
+31 0 obj
+% page stream
+<< /Length 2640 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Divers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 732.0236 cm
+Q
+q
+1 0 0 1 62.69291 732.0236 cm
+Q
+q
+1 0 0 1 62.69291 720.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Langues : ) Tj /F2 10 Tf (anglais ) Tj /F1 10 Tf (\(lu, \351crit et parl\351\) et ) Tj /F2 10 Tf (espagnol ) Tj /F1 10 Tf (\(lu\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Permis B) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Loisirs : course \340 pied, squash, kayak, voile, musique, photographie) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Vie associative : membre de l'association des plaisanciers du Palus \(voile sportive\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (R\351f\351rences) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Prof. Michael Nilges) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Directeur du d\351partement de biologie structurale et chimie) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Chef de l'unit\351 de bioinformatique structurale) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Institut Pasteur de Paris) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (michael.nilges@pasteur.fr) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R32': class PDFPageLabels 
+32 0 obj
+% Document Root
+<< /Nums [ 0
+ 33 0 R
+ 1
+ 34 0 R
+ 2
+ 35 0 R
+ 3
+ 36 0 R ] >>
+endobj
+% 'R33': class PDFPageLabel 
+33 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R34': class PDFPageLabel 
+34 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R35': class PDFPageLabel 
+35 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R36': class PDFPageLabel 
+36 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+xref
+0 37
+0000000000 65535 f
+0000000113 00000 n
+0000000233 00000 n
+0000000398 00000 n
+0000000585 00000 n
+0000000830 00000 n
+0000001009 00000 n
+0000001322 00000 n
+0000001557 00000 n
+0000001870 00000 n
+0000002135 00000 n
+0000002387 00000 n
+0000002710 00000 n
+0000002947 00000 n
+0000003249 00000 n
+0000003408 00000 n
+0000003674 00000 n
+0000003800 00000 n
+0000003966 00000 n
+0000004168 00000 n
+0000004349 00000 n
+0000004597 00000 n
+0000004781 00000 n
+0000004967 00000 n
+0000005182 00000 n
+0000005370 00000 n
+0000005552 00000 n
+0000005713 00000 n
+0000005846 00000 n
+0000012789 00000 n
+0000020456 00000 n
+0000028781 00000 n
+0000031524 00000 n
+0000031656 00000 n
+0000031733 00000 n
+0000031810 00000 n
+0000031887 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\273P\330\272:k\3305gB%:\374l\245|) (\273P\330\272:k\3305gB%:\374l\245|)] 
+
+ /Info 15 0 R
+ /Root 14 0 R
+ /Size 37 >>
+startxref
+31934
+%%EOF
