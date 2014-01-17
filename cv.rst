@@ -124,22 +124,22 @@ Publications et production scientifique
 ---------------------------------------
 
 2013
-    L Miri, G Bouvier, A Kettani, A Mikou, L Wakrim, M Nilges, TE Malliavin. *Stabilization of the integrase-DNA complex by Mg2+ ions and prediction of key residues for binding HIV-1 integrase inhibitors.* Proteins: Structure, Function, and Bioinformatics. Accepted article
+    L Miri, G Bouvier, A Kettani, A Mikou, L Wakrim, M Nilges, TE Malliavin. *Stabilization of the integrase-DNA complex by Mg2+ ions and prediction of key residues for binding HIV-1 integrase inhibitors.* Proteins: Structure, Function, and Bioinformatics. Accepted article. DOI: http://dx.doi.org/10.1002/prot.24412
 
-    Y Spill, G Bouvier, M Nilges. *A convective replica-exchange method for sampling new energy basins.* Journal of Computational Chemistry. 34(2), 132-140
+    Y Spill, G Bouvier, M Nilges. *A convective replica-exchange method for sampling new energy basins.* Journal of Computational Chemistry. 34(2), 132-140. DOI: http://dx.doi.org/10.1002/jcc.23113
 
 2012
-    A Mantsyzov, G Bouvier, N Evrard-Todeschi, G Bertho. *Contact-based ligand-clustering approach for the identification of active compounds in virtual screening.* Advances and Applications in Bioinformatics and Chemistryi. 5, 61-79
+    A Mantsyzov, G Bouvier, N Evrard-Todeschi, G Bertho. *Contact-based ligand-clustering approach for the identification of active compounds in virtual screening.* Advances and Applications in Bioinformatics and Chemistryi. 5, 61-79. DOI: http://dx.doi.org/10.2147/AABC.S30881
 
 2010
-    G Bouvier, N Evrard-Todeschi, J-P Girault, G Bertho. *Automatic clustering of docking poses in virtual screening process using self-organising map.* Bioinformatics. 26(1), 53-60
+    G Bouvier, N Evrard-Todeschi, J-P Girault, G Bertho. *Automatic clustering of docking poses in virtual screening process using self-organising map.* Bioinformatics. 26(1), 53-60. DOI: http://dx.doi.org/10.1093/bioinformatics/btp623
 
 
 2009
     Dépôt à l'Agence de Protection des Programmes du logiciel: AuPosSOM (Automatic analysis of Poses using Self-Organizing Map) sous l'IDDN: IDDN.FR.001.260020.000.S.P.2009.000.31235. Site web: https://www.biomedicale.univ-paris5.fr/aupossom
 
 2008
-    G Bertho, G Bouvier, GHB Hoa and J-P Girault. *The key-role of tyrosine 155 in the mechanism of prion transconformation as highlighted by a study of sheep mutant peptides.* Peptides. 29(7), 1073-1084
+    G Bertho, G Bouvier, GHB Hoa and J-P Girault. *The key-role of tyrosine 155 in the mechanism of prion transconformation as highlighted by a study of sheep mutant peptides.* Peptides. 29(7), 1073-1084. DOI: http://dx.doi.org/10.1016/j.peptides.2008.03.014
 
 ------------
 Informatique
