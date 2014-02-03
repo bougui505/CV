@@ -298,7 +298,7 @@ endobj
 % 'R21': class PDFInfo 
 21 0 obj
 << /Author ()
- /CreationDate (D:20140117173157-01'00')
+ /CreationDate (D:20140203140316-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -1147,7 +1147,7 @@ BT 1 0 0 1 0 38 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 38 Tm .459269 Tw 12 TL /F1 10 Tf 0 0 0 rg (G Bouvier, N Duclert-Savatier, N Desdouits, D Meziane-Cherif, A Blondel, P Courvalin, M Nilges, TE) Tj T* 0 Tw 2.026976 Tw (Malliavin. ) Tj /F3 10 Tf (Functional motions modulating VanA ligand binding unraveled by self-organizing maps.) Tj T* 0 Tw 18.23497 Tw /F1 10 Tf (Journal of chemical information and modeling. Accepted article. DOI:) Tj T* 0 Tw 0 0 .501961 rg (http://dx.doi.org/10.1021/ci400354b) Tj T* ET
+BT 1 0 0 1 0 38 Tm .459269 Tw 12 TL /F1 10 Tf 0 0 0 rg (G Bouvier, N Duclert-Savatier, N Desdouits, D Meziane-Cherif, A Blondel, P Courvalin, M Nilges, TE) Tj T* 0 Tw 2.026976 Tw (Malliavin. ) Tj /F3 10 Tf (Functional motions modulating VanA ligand binding unraveled by self-organizing maps.) Tj T* 0 Tw 18.92872 Tw /F1 10 Tf (Journal of chemical information and modeling. 54\(1\), 289-301. DOI:) Tj T* 0 Tw 0 0 .501961 rg (http://dx.doi.org/10.1021/ci400354b) Tj T* ET
 Q
 Q
 q
@@ -1694,7 +1694,7 @@ xref
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(+\354\313\377S\035&{op\\R\005\366\231\352) (+\354\313\377S\035&{op\\R\005\366\231\352)] 
+ [(\034\267O\025,X\217\233\275G\016\253F87\352) (\034\267O\025,X\217\233\275G\016\253F87\352)] 
 
  /Info 21 0 R
  /Root 20 0 R

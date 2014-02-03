@@ -124,7 +124,7 @@ Publications et production scientifique
 ---------------------------------------
 
 2014
-    G Bouvier, N Duclert-Savatier, N Desdouits, D Meziane-Cherif, A Blondel, P Courvalin, M Nilges, TE Malliavin. *Functional motions modulating VanA ligand binding unraveled by self-organizing maps.* Journal of chemical information and modeling. Accepted article. DOI: http://dx.doi.org/10.1021/ci400354b
+    G Bouvier, N Duclert-Savatier, N Desdouits, D Meziane-Cherif, A Blondel, P Courvalin, M Nilges, TE Malliavin. *Functional motions modulating VanA ligand binding unraveled by self-organizing maps.* Journal of chemical information and modeling. 54(1), 289-301. DOI: http://dx.doi.org/10.1021/ci400354b
 
 2013
     L Miri, G Bouvier, A Kettani, A Mikou, L Wakrim, M Nilges, TE Malliavin. *Stabilization of the integrase-DNA complex by Mg2+ ions and prediction of key residues for binding HIV-1 integrase inhibitors.* Proteins: Structure, Function, and Bioinformatics. Accepted article. DOI: http://dx.doi.org/10.1002/prot.24412
