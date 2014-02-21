@@ -94,7 +94,7 @@ Communications orales
 =====================
 
 2014
-    M Nilges, M Nivaskumar, G Bouvier, M Campos, E H Egelman, X Yu, O Francetic. *Structural Basis of Conformational Transitions Involved in Pseudopilus Assembly and Stability.* Biophysical Journal 106, no. 2 (2014): 26a
+    M Nilges, M Nivaskumar, G Bouvier, M Campos, E H Egelman, X Yu, O Francetic. *Structural Basis of Conformational Transitions Involved in Pseudopilus Assembly and Stability.* Biophysical Journal. 106(2), 26a
 
 2013
     École d'hiver Algorithm in Structural Bioinformatics. *Determination of macromolecular structure and dynamics from experimental data: NMR structure determination as an example.* (http://algosb.sciencesconf.org/)
@@ -113,7 +113,7 @@ Communications par affiche
 ==========================
 
 2014
-    I Cortes, G Bouvier, M Nilges, L Maragliano T E Malliavin. *Enhanced Sampling of the Catalytic Domain of the Adenyl Cyclase CyaA from Bordetella Pertussis.* Biophysical Journal. 106(2), 610a
+    I Cortes, G Bouvier, M Nilges, L Maragliano, T E Malliavin. *Enhanced Sampling of the Catalytic Domain of the Adenyl Cyclase CyaA from Bordetella Pertussis.* Biophysical Journal. 106(2), 610a
 
 2010
     Poster IMTCE : *Nouveaux inhibiteurs de l'intégrase du VIH-1 : Étude parallèle par transfert-RMN et modélisation moléculaire.*
