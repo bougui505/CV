@@ -112,6 +112,9 @@ Communications orales
 Communications par affiche
 ==========================
 
+2014
+    I Cortes, G Bouvier, M Nilges, L Maragliano T E Malliavin. *Enhanced Sampling of the Catalytic Domain of the Adenyl Cyclase CyaA from Bordetella Pertussis.* Biophysical Journal. 106(2), 610a
+
 2010
     Poster IMTCE : *Nouveaux inhibiteurs de l'intégrase du VIH-1 : Étude parallèle par transfert-RMN et modélisation moléculaire.*
 
