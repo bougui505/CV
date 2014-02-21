@@ -93,10 +93,13 @@ Communications scientifiques
 Communications orales
 =====================
 
+2014
+    M Nilges, M Nivaskumar, G Bouvier, M Campos, E H Egelman, X Yu, O Francetic. *Structural Basis of Conformational Transitions Involved in Pseudopilus Assembly and Stability.* Biophysical Journal 106, no. 2 (2014): 26a
+
 2013
     École d'hiver Algorithm in Structural Bioinformatics. *Determination of macromolecular structure and dynamics from experimental data: NMR structure determination as an example.* (http://algosb.sciencesconf.org/)
 
-    M Nilges, G Bouvier, PR Batista, Y Spill, *Structures of Biomolecular Complexes from Heterogeneous Data and Bayesian Data Analysis.* Biophysical Journal. 104(2), 376a
+    M Nilges, G Bouvier, PR Batista, Y Spill. *Structures of Biomolecular Complexes from Heterogeneous Data and Bayesian Data Analysis.* Biophysical Journal. 104(2), 376a
 
 2010
     Conférence IMTCE : *Criblage virtuel par l'analyse des contacts ligand-récepteur.*
