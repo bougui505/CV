@@ -130,7 +130,7 @@ Publications et production scientifique
 ---------------------------------------
 
 2014
-    M Nivaskumar, G Bouvier, M Campos, X Yu, E H Egelman, M Nilges, O Francetic. *Distinct docking and stabilization steps of the pseudopilus conformational transition path suggest rotational assembly of type IV pilus-like fibers* Structure. In press.
+    M Nivaskumar, G Bouvier, M Campos, X Yu, E H Egelman, M Nilges, O Francetic. *Distinct docking and stabilization steps of the pseudopilus conformational transition path suggest rotational assembly of type IV pilus-like fibers.* Structure. In press.
 
     G Bouvier, N Duclert-Savatier, N Desdouits, D Meziane-Cherif, A Blondel, P Courvalin, M Nilges, TE Malliavin. *Functional motions modulating VanA ligand binding unraveled by self-organizing maps.* Journal of chemical information and modeling. 54(1), 289-301. DOI: http://dx.doi.org/10.1021/ci400354b
 
