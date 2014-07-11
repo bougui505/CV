@@ -130,6 +130,8 @@ Publications et production scientifique
 ---------------------------------------
 
 2014
+    A Cassioli, B Bardiaux, G Bouvier, A Mucherino, R Alves, L Liberti, M Nilges, C Lavor, TE Malliavin. *An algorithm to enumerate all possible protein conformations verifying a set of distance restraints.* BMC Bioinformatics. Submitted.
+
     M Nivaskumar, G Bouvier, M Campos, X Yu, E H Egelman, M Nilges, O Francetic. *Distinct docking and stabilization steps of the pseudopilus conformational transition path suggest rotational assembly of type IV pilus-like fibers.* Structure. In press. DOI: http://dx.doi.org/10.1016/j.str.2014.03.001
 
     G Bouvier, N Duclert-Savatier, N Desdouits, D Meziane-Cherif, A Blondel, P Courvalin, M Nilges, TE Malliavin. *Functional motions modulating VanA ligand binding unraveled by self-organizing maps.* Journal of chemical information and modeling. 54(1), 289-301. DOI: http://dx.doi.org/10.1021/ci400354b
