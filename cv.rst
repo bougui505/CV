@@ -3,11 +3,9 @@ Curriculum Vitæ
 ===============
 
 | **Guillaume BOUVIER**
-| 23 rue de la Sablière
-| 75014 Paris
 | 
 | Téléphone : 06 08 93 09 94
-| E-mail: guillaume.bouvier@ens-cachan.org
+| E-mail: guillaume.bouvier at ens-cachan.org
 | 
 | Nationalité française
 | Né le 12/01/1983 à CHARENTON 
