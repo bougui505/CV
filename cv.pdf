@@ -37,12 +37,12 @@ endobj
 % 'Page1': class PDFPage 
 5 0 obj
 % Page dictionary
-<< /Contents 34 0 R
+<< /Contents 35 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 33 0 R
+ /Parent 34 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -62,9 +62,9 @@ endobj
  0
  0 ]
  /Rect [ 86.02291
- 229.7736
+ 205.7736
  221.0929
- 241.7736 ]
+ 217.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -72,12 +72,12 @@ endobj
 7 0 obj
 % Page dictionary
 << /Annots [ 6 0 R ]
- /Contents 35 0 R
+ /Contents 36 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 33 0 R
+ /Parent 34 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -92,14 +92,14 @@ endobj
 8 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://dx.doi.org/10.1016/j.str.2014.03.001) >>
+ /URI (http://dx.doi.org/10.1093/bioinformatics/btu849) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 310.0029
- 430.7736
- 495.1229
- 442.7736 ]
+ /Rect [ 106.0329
+ 427.7736
+ 311.7029
+ 439.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -107,14 +107,14 @@ endobj
 9 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://dx.doi.org/10.1021/ci400354b) >>
+ /URI (http://dx.doi.org/10.1016/j.str.2014.03.001) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 82.69291
- 382.7736
- 239.4629
- 394.7736 ]
+ 379.7736
+ 267.8129
+ 391.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -122,14 +122,14 @@ endobj
 10 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://dx.doi.org/10.1002/prot.24412) >>
+ /URI (http://dx.doi.org/10.1021/ci400354b) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 82.69291
- 315.7736
- 241.1329
- 327.7736 ]
+ 331.7736
+ 239.4629
+ 343.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -137,14 +137,14 @@ endobj
 11 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://dx.doi.org/10.1002/jcc.23113) >>
+ /URI (http://dx.doi.org/10.1002/prot.24412) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 341.6829
- 291.7736
- 495.1129
- 303.7736 ]
+ /Rect [ 82.69291
+ 264.7736
+ 241.1329
+ 276.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -152,14 +152,14 @@ endobj
 12 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://dx.doi.org/10.2147/AABC.S30881) >>
+ /URI (http://dx.doi.org/10.1002/jcc.23113) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 286.0929
- 236.7736
- 461.2029
- 248.7736 ]
+ /Rect [ 341.6829
+ 240.7736
+ 495.1129
+ 252.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -167,14 +167,14 @@ endobj
 13 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://dx.doi.org/10.1093/bioinformatics/btp623) >>
+ /URI (http://dx.doi.org/10.2147/AABC.S30881) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 82.69291
- 181.7736
- 288.3629
- 193.7736 ]
+ /Rect [ 286.0929
+ 185.7736
+ 461.2029
+ 197.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -182,14 +182,14 @@ endobj
 14 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://www.biomedicale.univ-paris5.fr/aupossom) >>
+ /URI (http://dx.doi.org/10.1093/bioinformatics/btp623) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 106.5929
- 126.7736
- 323.8829
- 138.7736 ]
+ /Rect [ 82.69291
+ 130.7736
+ 288.3629
+ 142.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -203,12 +203,12 @@ endobj
  12 0 R
  13 0 R
  14 0 R ]
- /Contents 36 0 R
+ /Contents 37 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 33 0 R
+ /Parent 34 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -223,13 +223,13 @@ endobj
 16 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://dx.doi.org/10.1016/j.peptides.2008.03.014) >>
+ /URI (https://www.biomedicale.univ-paris5.fr/aupossom) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 159.4029
+ /Rect [ 126.6029
  750.7736
- 371.2129
+ 343.8929
  762.7736 ]
  /Subtype /Link
  /Type /Annot >>
@@ -238,14 +238,14 @@ endobj
 17 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://www.biomedicale.univ-paris5.fr/aupossom) >>
+ /URI (http://dx.doi.org/10.1016/j.peptides.2008.03.014) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 231.5529
- 594.7736
- 448.8429
- 606.7736 ]
+ /Rect [ 159.4029
+ 695.7736
+ 371.2129
+ 707.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -253,29 +253,45 @@ endobj
 18 0 obj
 << /A << /S /URI
  /Type /Action
+ /URI (https://www.biomedicale.univ-paris5.fr/aupossom) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 231.5529
+ 539.7736
+ 448.8429
+ 551.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class PDFDictionary 
+19 0 obj
+<< /A << /S /URI
+ /Type /Action
  /URI (mailto:michael.nilges@pasteur.fr) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 62.69291
- 345.7736
+ 326.7736
  532.5827
- 357.7736 ]
+ 338.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page4': class PDFPage 
-19 0 obj
+20 0 obj
 % Page dictionary
 << /Annots [ 16 0 R
  17 0 R
- 18 0 R ]
- /Contents 37 0 R
+ 18 0 R
+ 19 0 R ]
+ /Contents 38 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 33 0 R
+ /Parent 34 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -286,165 +302,165 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R20': class PDFCatalog 
-20 0 obj
+% 'R21': class PDFCatalog 
+21 0 obj
 % Document Root
-<< /Outlines 22 0 R
- /PageLabels 38 0 R
+<< /Outlines 23 0 R
+ /PageLabels 39 0 R
  /PageMode /UseNone
- /Pages 33 0 R
+ /Pages 34 0 R
  /Type /Catalog >>
 endobj
-% 'R21': class PDFInfo 
-21 0 obj
+% 'R22': class PDFInfo 
+22 0 obj
 << /Author ()
- /CreationDate (D:20141027150448-01'00')
+ /CreationDate (D:20141230172424-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (Curriculum Vit\346) >>
 endobj
-% 'R22': class PDFOutlines 
-22 0 obj
+% 'R23': class PDFOutlines 
+23 0 obj
 << /Count 11
- /First 23 0 R
- /Last 32 0 R
+ /First 24 0 R
+ /Last 33 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-23 0 obj
-<< /Dest [ 5 0 R
- /XYZ
- 62.69291
- 629.0236
- 0 ]
- /Next 24 0 R
- /Parent 22 0 R
- /Title (Cursus) >>
-endobj
-% 'Outline.1': class OutlineEntryObject 
 24 0 obj
 << /Dest [ 5 0 R
  /XYZ
  62.69291
- 190.0236
+ 605.0236
  0 ]
  /Next 25 0 R
- /Parent 22 0 R
- /Prev 23 0 R
+ /Parent 23 0 R
+ /Title (Cursus) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+25 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 166.0236
+ 0 ]
+ /Next 26 0 R
+ /Parent 23 0 R
+ /Prev 24 0 R
  /Title (Enseignement et encadrement) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-25 0 obj
-<< /Dest [ 7 0 R
- /XYZ
- 62.69291
- 568.0236
- 0 ]
- /Next 26 0 R
- /Parent 22 0 R
- /Prev 24 0 R
- /Title (Stages) >>
-endobj
-% 'Outline.3': class OutlineEntryObject 
 26 0 obj
-<< /Count 2
- /Dest [ 7 0 R
- /XYZ
- 62.69291
- 392.0236
- 0 ]
- /First 27 0 R
- /Last 28 0 R
- /Next 29 0 R
- /Parent 22 0 R
- /Prev 25 0 R
- /Title (Communications scientifiques) >>
-endobj
-% 'Outline.11.0': class OutlineEntryObject 
-27 0 obj
 << /Dest [ 7 0 R
- /XYZ
- 62.69291
- 359.0236
- 0 ]
- /Next 28 0 R
- /Parent 26 0 R
- /Title (Communications orales) >>
-endobj
-% 'Outline.11.1': class OutlineEntryObject 
-28 0 obj
-<< /Dest [ 15 0 R
- /XYZ
- 62.69291
- 765.0236
- 0 ]
- /Parent 26 0 R
- /Prev 27 0 R
- /Title (Communications par affiche) >>
-endobj
-% 'Outline.4': class OutlineEntryObject 
-29 0 obj
-<< /Dest [ 15 0 R
  /XYZ
  62.69291
  544.0236
  0 ]
+ /Next 27 0 R
+ /Parent 23 0 R
+ /Prev 25 0 R
+ /Title (Stages) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+27 0 obj
+<< /Count 2
+ /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 368.0236
+ 0 ]
+ /First 28 0 R
+ /Last 29 0 R
  /Next 30 0 R
- /Parent 22 0 R
+ /Parent 23 0 R
  /Prev 26 0 R
+ /Title (Communications scientifiques) >>
+endobj
+% 'Outline.11.0': class OutlineEntryObject 
+28 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 335.0236
+ 0 ]
+ /Next 29 0 R
+ /Parent 27 0 R
+ /Title (Communications orales) >>
+endobj
+% 'Outline.11.1': class OutlineEntryObject 
+29 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 726.0236
+ 0 ]
+ /Parent 27 0 R
+ /Prev 28 0 R
+ /Title (Communications par affiche) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+30 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 505.0236
+ 0 ]
+ /Next 31 0 R
+ /Parent 23 0 R
+ /Prev 27 0 R
  /Title (Publications et production scientifique) >>
 endobj
 % 'Outline.5': class OutlineEntryObject 
-30 0 obj
-<< /Dest [ 19 0 R
+31 0 obj
+<< /Dest [ 20 0 R
  /XYZ
  62.69291
- 738.0236
+ 683.0236
  0 ]
- /Next 31 0 R
- /Parent 22 0 R
- /Prev 29 0 R
+ /Next 32 0 R
+ /Parent 23 0 R
+ /Prev 30 0 R
  /Title (Informatique) >>
 endobj
 % 'Outline.6': class OutlineEntryObject 
-31 0 obj
-<< /Dest [ 19 0 R
+32 0 obj
+<< /Dest [ 20 0 R
  /XYZ
  62.69291
- 549.0236
+ 494.0236
  0 ]
- /Next 32 0 R
- /Parent 22 0 R
- /Prev 30 0 R
+ /Next 33 0 R
+ /Parent 23 0 R
+ /Prev 31 0 R
  /Title (Divers) >>
 endobj
 % 'Outline.7': class OutlineEntryObject 
-32 0 obj
-<< /Dest [ 19 0 R
+33 0 obj
+<< /Dest [ 20 0 R
  /XYZ
  62.69291
- 438.0236
+ 419.0236
  0 ]
- /Parent 22 0 R
- /Prev 31 0 R
+ /Parent 23 0 R
+ /Prev 32 0 R
  /Title (R\351f\351rences) >>
 endobj
-% 'R33': class PDFPages 
-33 0 obj
+% 'R34': class PDFPages 
+34 0 obj
 % page tree
 << /Count 4
  /Kids [ 5 0 R
  7 0 R
  15 0 R
- 19 0 R ]
+ 20 0 R ]
  /Type /Pages >>
 endobj
-% 'R34': class PDFStream 
-34 0 obj
+% 'R35': class PDFStream 
+35 0 obj
 % page stream
-<< /Length 7048 >>
+<< /Length 6812 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -507,23 +523,37 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (N\351 le 12/01/1983 \340 CHARENTON) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 641.0236 cm
+1 0 0 1 62.69291 629.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
 Q
 q
-1 0 0 1 62.69291 608.0236 cm
+1 0 0 1 62.69291 617.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pacs\351, 1 enfant.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 617.0236 cm
+Q
+q
+1 0 0 1 62.69291 584.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Cursus) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 590.0236 cm
+1 0 0 1 62.69291 566.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2010) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 539.0236 cm
+1 0 0 1 62.69291 515.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 38 Tm  T* ET
@@ -537,14 +567,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 523.0236 cm
+1 0 0 1 62.69291 499.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2007-2010) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 472.0236 cm
+1 0 0 1 62.69291 448.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 38 Tm  T* ET
@@ -558,14 +588,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 456.0236 cm
+1 0 0 1 62.69291 432.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2006-2007) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 405.0236 cm
+1 0 0 1 62.69291 381.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 38 Tm  T* ET
@@ -579,14 +609,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 389.0236 cm
+1 0 0 1 62.69291 365.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2005-2006) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 362.0236 cm
+1 0 0 1 62.69291 338.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 14 Tm  T* ET
@@ -600,14 +630,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 346.0236 cm
+1 0 0 1 62.69291 322.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2004-2005) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 319.0236 cm
+1 0 0 1 62.69291 295.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 14 Tm  T* ET
@@ -621,14 +651,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 303.0236 cm
+1 0 0 1 62.69291 279.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2003-2004) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 276.0236 cm
+1 0 0 1 62.69291 252.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 14 Tm  T* ET
@@ -642,14 +672,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 260.0236 cm
+1 0 0 1 62.69291 236.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2001-2003) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 233.0236 cm
+1 0 0 1 62.69291 209.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 14 Tm  T* ET
@@ -663,14 +693,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 217.0236 cm
+1 0 0 1 62.69291 193.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2000-2001) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 202.0236 cm
+1 0 0 1 62.69291 178.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -684,20 +714,20 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 169.0236 cm
+1 0 0 1 62.69291 145.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Enseignement et encadrement) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 151.0236 cm
+1 0 0 1 62.69291 127.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2012) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 124.0236 cm
+1 0 0 1 62.69291 100.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 14 Tm  T* ET
@@ -712,60 +742,45 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 108.0236 cm
+1 0 0 1 62.69291 84.02362 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2012) Tj T* ET
 Q
 Q
-q
-1 0 0 1 62.69291 76.86614 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 18.15748 Tm  T* ET
-q
-1 0 0 1 20 4.15748 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.20747 Tw (Encadrement d'une stagiaire doctorante \(laboratoire d'\351pid\351miologie mol\351culaire et pathologie) Tj T* 0 Tw .802976 Tw (exp\351rimentale appliqu\351e aux maladies infectieuses, Institut Pasteur de Tunis, Tunisie\): identification) Tj T* 0 Tw ET
-Q
-Q
-q
-Q
-Q
  
 endstream
 endobj
-% 'R35': class PDFStream 
-35 0 obj
+% 'R36': class PDFStream 
+36 0 obj
 % page stream
-<< /Length 7655 >>
+<< /Length 7634 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 750.0236 cm
+1 0 0 1 62.69291 726.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
+BT 1 0 0 1 0 26 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (et caract\351risation in silico de petites mol\351cules anti- Leishmaniennes.) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 4.20747 Tw (Encadrement d'une stagiaire doctorante \(laboratoire d'\351pid\351miologie mol\351culaire et pathologie) Tj T* 0 Tw .802976 Tw (exp\351rimentale appliqu\351e aux maladies infectieuses, Institut Pasteur de Tunis, Tunisie\): identification) Tj T* 0 Tw (et caract\351risation in silico de petites mol\351cules anti- Leishmaniennes.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 734.0236 cm
+1 0 0 1 62.69291 710.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2010-2011) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 695.0236 cm
+1 0 0 1 62.69291 671.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 26 Tm  T* ET
@@ -779,14 +794,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 679.0236 cm
+1 0 0 1 62.69291 655.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2007-2010) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 580.0236 cm
+1 0 0 1 62.69291 556.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 86 Tm  T* ET
@@ -902,20 +917,20 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 547.0236 cm
+1 0 0 1 62.69291 523.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Stages) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 529.0236 cm
+1 0 0 1 62.69291 505.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2007) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 490.0236 cm
+1 0 0 1 62.69291 466.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 26 Tm  T* ET
@@ -929,14 +944,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 474.0236 cm
+1 0 0 1 62.69291 450.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2005) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 447.0236 cm
+1 0 0 1 62.69291 423.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 14 Tm  T* ET
@@ -951,14 +966,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 431.0236 cm
+1 0 0 1 62.69291 407.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2004) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 404.0236 cm
+1 0 0 1 62.69291 380.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 14 Tm  T* ET
@@ -973,26 +988,26 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 371.0236 cm
+1 0 0 1 62.69291 347.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Communications scientifiques) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 341.0236 cm
+1 0 0 1 62.69291 317.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Communications orales) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 323.0236 cm
+1 0 0 1 62.69291 299.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2014) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 284.0236 cm
+1 0 0 1 62.69291 260.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 26 Tm  T* ET
@@ -1006,14 +1021,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 268.0236 cm
+1 0 0 1 62.69291 244.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2013) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 205.0236 cm
+1 0 0 1 62.69291 181.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 50 Tm  T* ET
@@ -1033,14 +1048,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 189.0236 cm
+1 0 0 1 62.69291 165.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2010) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 174.0236 cm
+1 0 0 1 62.69291 150.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1054,7 +1069,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 158.0236 cm
+1 0 0 1 62.69291 134.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2009) Tj T* ET
@@ -1064,13 +1079,30 @@ q
 1 0 0 1 62.69291 95.02362 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 50 Tm  T* ET
+BT 1 0 0 1 0 26 Tm  T* ET
 q
-1 0 0 1 20 24 cm
+1 0 0 1 20 0 cm
 q
 BT 1 0 0 1 0 26 Tm 2.733314 Tw 12 TL /F1 10 Tf 0 0 0 rg (Conf\351rence du Groupe d'\311tude de R\351sonance Magn\351tique \(GERM\), Fr\351jus, France. Prix de la) Tj T* 0 Tw 1.13248 Tw (meilleure communication orale sponsoris\351 par la soci\351t\351 Varian: ) Tj /F3 10 Tf (D\351couverte et \351tude de nouveaux) Tj T* 0 Tw (anti-int\351grase du VIH-1 par RMN et criblage virtuel.) Tj T* ET
 Q
 Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R37': class PDFStream 
+37 0 obj
+% page stream
+<< /Length 7467 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 738.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
@@ -1080,30 +1112,21 @@ Q
 q
 Q
 Q
- 
-endstream
-endobj
-% 'R36': class PDFStream 
-36 0 obj
-% page stream
-<< /Length 7624 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 747.0236 cm
+1 0 0 1 62.69291 708.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Communications par affiche) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 729.0236 cm
+1 0 0 1 62.69291 690.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2014) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 702.0236 cm
+1 0 0 1 62.69291 663.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 14 Tm  T* ET
@@ -1117,14 +1140,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 686.0236 cm
+1 0 0 1 62.69291 647.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2010) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 635.0236 cm
+1 0 0 1 62.69291 596.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 38 Tm  T* ET
@@ -1144,14 +1167,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 619.0236 cm
+1 0 0 1 62.69291 580.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2009) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 556.0236 cm
+1 0 0 1 62.69291 517.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 50 Tm  T* ET
@@ -1171,33 +1194,33 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 523.0236 cm
+1 0 0 1 62.69291 484.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Publications et production scientifique) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 505.0236 cm
+1 0 0 1 62.69291 466.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2014) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 382.0236 cm
+1 0 0 1 62.69291 331.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 110 Tm  T* ET
+BT 1 0 0 1 0 122 Tm  T* ET
 q
-1 0 0 1 20 84 cm
+1 0 0 1 20 96 cm
 q
-BT 1 0 0 1 0 26 Tm .606457 Tw 12 TL /F1 10 Tf 0 0 0 rg (A Cassioli, B Bardiaux, G Bouvier, A Mucherino, R Alves, L Liberti, M Nilges, C Lavor, TE Malliavin.) Tj T* 0 Tw 1.430751 Tw /F3 10 Tf (An algorithm to enumerate all possible protein conformations verifying a set of distance restraints.) Tj T* 0 Tw /F1 10 Tf (BMC Bioinformatics. Submitted.) Tj T* ET
+BT 1 0 0 1 0 26 Tm 1.002765 Tw 12 TL /F1 10 Tf 0 0 0 rg (G Bouvier , N Desdouits, M Ferber , A Blondel, M Nilges. ) Tj /F3 10 Tf (An automatic tool to analyze and cluster) Tj T* 0 Tw 2.60622 Tw (macromolecular conformations based on Self-Organizing Maps. ) Tj /F1 10 Tf (Bioinformatics. Advance access.) Tj T* 0 Tw (DOI: ) Tj 0 0 .501961 rg (http://dx.doi.org/10.1093/bioinformatics/btu849) Tj T* ET
 Q
 Q
 q
 1 0 0 1 20 48 cm
 q
-BT 1 0 0 1 0 26 Tm .818735 Tw 12 TL /F1 10 Tf 0 0 0 rg (M Nivaskumar, G Bouvier, M Campos, X Yu, E H Egelman, M Nilges, O Francetic. ) Tj /F3 10 Tf (Distinct docking) Tj T* 0 Tw .627251 Tw (and stabilization steps of the pseudopilus conformational transition path suggest rotational assembly) Tj T* 0 Tw (of type IV pilus-like fibers. ) Tj /F1 10 Tf (Structure. In press. DOI: ) Tj 0 0 .501961 rg (http://dx.doi.org/10.1016/j.str.2014.03.001) Tj T* ET
+BT 1 0 0 1 0 38 Tm 2.726651 Tw 12 TL /F1 10 Tf 0 0 0 rg (M Nivaskumar*, G Bouvier*, M Campos, X Yu, E H Egelman, M Nilges, O Francetic \(*co-first) Tj T* 0 Tw 1.689069 Tw (authors\). ) Tj /F3 10 Tf (Distinct docking and stabilization steps of the pseudopilus conformational transition path) Tj T* 0 Tw 6.23816 Tw (suggest rotational assembly of type IV pilus-like fibers. ) Tj /F1 10 Tf (Structure. 22\(5\), 685-696. DOI:) Tj T* 0 Tw 0 0 .501961 rg (http://dx.doi.org/10.1016/j.str.2014.03.001) Tj T* ET
 Q
 Q
 q
@@ -1210,14 +1233,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 366.0236 cm
+1 0 0 1 62.69291 315.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2013) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 291.0236 cm
+1 0 0 1 62.69291 240.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 62 Tm  T* ET
@@ -1237,14 +1260,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 275.0236 cm
+1 0 0 1 62.69291 224.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2012) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 236.0236 cm
+1 0 0 1 62.69291 185.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 26 Tm  T* ET
@@ -1258,14 +1281,14 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 220.0236 cm
+1 0 0 1 62.69291 169.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2010) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 181.0236 cm
+1 0 0 1 62.69291 130.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 26 Tm  T* ET
@@ -1279,42 +1302,21 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 165.0236 cm
+1 0 0 1 62.69291 114.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2009) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 126.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 26 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 26 Tm 2.31748 Tw 12 TL /F1 10 Tf 0 0 0 rg (D\351p\364t \340 l'Agence de Protection des Programmes du logiciel: AuPosSOM \(Automatic analysis of) Tj T* 0 Tw .714252 Tw (Poses using Self-Organizing Map\) sous l'IDDN: IDDN.FR.001.260020.000.S.P.2009.000.31235. Site) Tj T* 0 Tw (web: ) Tj 0 0 .501961 rg (https://www.biomedicale.univ-paris5.fr/aupossom) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 110.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2008) Tj T* ET
-Q
-Q
-q
 1 0 0 1 62.69291 76.86614 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 20.15748 Tm  T* ET
+BT 1 0 0 1 0 24.15748 Tm  T* ET
 q
-1 0 0 1 20 6.15748 cm
+1 0 0 1 20 10.15748 cm
 q
-BT 1 0 0 1 0 14 Tm .839398 Tw 12 TL /F1 10 Tf 0 0 0 rg (G Bertho, G Bouvier, GHB Hoa and J-P Girault. ) Tj /F3 10 Tf (The key-role of tyrosine 155 in the mechanism of ) Tj T* 0 Tw 2.899147 Tw (prion transconformation as highlighted by a study of sheep mutant peptides. ) Tj /F1 10 Tf (Peptides. 29\(7\),) Tj T* 0 Tw ET
+BT 1 0 0 1 0 14 Tm 1.81748 Tw 12 TL /F1 10 Tf 0 0 0 rg (D\351p\364t \340 l'Agence de Protection des Programmes du logiciel: AuPosSOM \(Automatic analysis of ) Tj T* 0 Tw 3.168294 Tw (Poses using Self-Organizing Map\) sous l'IDDN: IDDN.FR.001.260020.000.S.P.2009.000.31235.) Tj T* 0 Tw ET
 Q
 Q
 q
@@ -1323,10 +1325,10 @@ Q
  
 endstream
 endobj
-% 'R37': class PDFStream 
-37 0 obj
+% 'R38': class PDFStream 
+38 0 obj
 % page stream
-<< /Length 5946 >>
+<< /Length 5812 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1337,26 +1339,47 @@ BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (1073-1084. DOI: ) Tj 0 0 .501961 rg (http://dx.doi.org/10.1016/j.peptides.2008.03.014) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Site web: ) Tj 0 0 .501961 rg (https://www.biomedicale.univ-paris5.fr/aupossom) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 717.0236 cm
+1 0 0 1 62.69291 734.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2008) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 26 Tm 1.192339 Tw 12 TL /F1 10 Tf 0 0 0 rg (G Bertho, G Bouvier, GHB Hoa and J-P Girault. ) Tj /F3 10 Tf (The key-role of tyrosine 155 in the mechanism of) Tj T* 0 Tw 3.399147 Tw (prion transconformation as highlighted by a study of sheep mutant peptides. ) Tj /F1 10 Tf (Peptides. 29\(7\),) Tj T* 0 Tw (1073-1084. DOI: ) Tj 0 0 .501961 rg (http://dx.doi.org/10.1016/j.peptides.2008.03.014) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 662.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Informatique) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 705.0236 cm
+1 0 0 1 62.69291 650.0236 cm
 Q
 q
-1 0 0 1 62.69291 705.0236 cm
+1 0 0 1 62.69291 650.0236 cm
 Q
 q
-1 0 0 1 62.69291 681.0236 cm
+1 0 0 1 62.69291 626.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1377,10 +1400,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 675.0236 cm
+1 0 0 1 62.69291 620.0236 cm
 Q
 q
-1 0 0 1 62.69291 651.0236 cm
+1 0 0 1 62.69291 596.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1401,10 +1424,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 645.0236 cm
+1 0 0 1 62.69291 590.0236 cm
 Q
 q
-1 0 0 1 62.69291 633.0236 cm
+1 0 0 1 62.69291 578.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1425,10 +1448,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 627.0236 cm
+1 0 0 1 62.69291 572.0236 cm
 Q
 q
-1 0 0 1 62.69291 615.0236 cm
+1 0 0 1 62.69291 560.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1449,10 +1472,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 609.0236 cm
+1 0 0 1 62.69291 554.0236 cm
 Q
 q
-1 0 0 1 62.69291 597.0236 cm
+1 0 0 1 62.69291 542.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1472,10 +1495,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 591.0236 cm
+1 0 0 1 62.69291 536.0236 cm
 Q
 q
-1 0 0 1 62.69291 579.0236 cm
+1 0 0 1 62.69291 524.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1496,10 +1519,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 573.0236 cm
+1 0 0 1 62.69291 518.0236 cm
 Q
 q
-1 0 0 1 62.69291 561.0236 cm
+1 0 0 1 62.69291 506.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1520,22 +1543,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 561.0236 cm
+1 0 0 1 62.69291 506.0236 cm
 Q
 q
-1 0 0 1 62.69291 528.0236 cm
+1 0 0 1 62.69291 473.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Divers) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 516.0236 cm
+1 0 0 1 62.69291 461.0236 cm
 Q
 q
-1 0 0 1 62.69291 516.0236 cm
+1 0 0 1 62.69291 461.0236 cm
 Q
 q
-1 0 0 1 62.69291 504.0236 cm
+1 0 0 1 62.69291 449.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1555,10 +1578,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 498.0236 cm
+1 0 0 1 62.69291 443.0236 cm
 Q
 q
-1 0 0 1 62.69291 486.0236 cm
+1 0 0 1 62.69291 431.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1579,95 +1602,47 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 480.0236 cm
+1 0 0 1 62.69291 431.0236 cm
 Q
 q
-1 0 0 1 62.69291 468.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Loisirs : course \340 pied, squash, kayak, voile, musique, photographie) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 462.0236 cm
-Q
-q
-1 0 0 1 62.69291 450.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Vie associative : membre de l'association des plaisanciers du Palus \(voile sportive\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 450.0236 cm
-Q
-q
-1 0 0 1 62.69291 417.0236 cm
+1 0 0 1 62.69291 398.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (R\351f\351rences) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 405.0236 cm
+1 0 0 1 62.69291 386.0236 cm
 Q
 q
-1 0 0 1 62.69291 393.0236 cm
+1 0 0 1 62.69291 374.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Prof. Michael Nilges) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 381.0236 cm
+1 0 0 1 62.69291 362.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Directeur du d\351partement de biologie structurale et chimie) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 369.0236 cm
+1 0 0 1 62.69291 350.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Chef de l'unit\351 de bioinformatique structurale) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 357.0236 cm
+1 0 0 1 62.69291 338.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Institut Pasteur de Paris) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 345.0236 cm
+1 0 0 1 62.69291 326.0236 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -1675,49 +1650,49 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (michael.nilges@pasteur.fr) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 345.0236 cm
+1 0 0 1 62.69291 326.0236 cm
 Q
  
 endstream
 endobj
-% 'R38': class PDFPageLabels 
-38 0 obj
+% 'R39': class PDFPageLabels 
+39 0 obj
 % Document Root
 << /Nums [ 0
- 39 0 R
- 1
  40 0 R
- 2
+ 1
  41 0 R
+ 2
+ 42 0 R
  3
- 42 0 R ] >>
-endobj
-% 'R39': class PDFPageLabel 
-39 0 obj
-% None
-<< /S /D
- /St 1 >>
+ 43 0 R ] >>
 endobj
 % 'R40': class PDFPageLabel 
 40 0 obj
 % None
 << /S /D
- /St 2 >>
+ /St 1 >>
 endobj
 % 'R41': class PDFPageLabel 
 41 0 obj
 % None
 << /S /D
- /St 3 >>
+ /St 2 >>
 endobj
 % 'R42': class PDFPageLabel 
 42 0 obj
 % None
 << /S /D
+ /St 3 >>
+endobj
+% 'R43': class PDFPageLabel 
+43 0 obj
+% None
+<< /S /D
  /St 4 >>
 endobj
 xref
-0 43
+0 44
 0000000000 65535 f
 0000000113 00000 n
 0000000233 00000 n
@@ -1727,48 +1702,49 @@ xref
 0000001045 00000 n
 0000001280 00000 n
 0000001593 00000 n
-0000001854 00000 n
-0000002107 00000 n
-0000002362 00000 n
-0000002616 00000 n
-0000002872 00000 n
+0000001858 00000 n
+0000002119 00000 n
+0000002373 00000 n
+0000002628 00000 n
+0000002882 00000 n
 0000003138 00000 n
 0000003390 00000 n
 0000003757 00000 n
-0000004025 00000 n
+0000004024 00000 n
 0000004292 00000 n
-0000004529 00000 n
-0000004849 00000 n
-0000005008 00000 n
-0000005274 00000 n
-0000005400 00000 n
-0000005566 00000 n
-0000005768 00000 n
-0000005949 00000 n
-0000006197 00000 n
-0000006381 00000 n
-0000006568 00000 n
-0000006783 00000 n
-0000006971 00000 n
-0000007153 00000 n
-0000007314 00000 n
-0000007447 00000 n
-0000014594 00000 n
-0000022348 00000 n
-0000030071 00000 n
-0000036120 00000 n
-0000036252 00000 n
-0000036329 00000 n
-0000036406 00000 n
-0000036483 00000 n
+0000004559 00000 n
+0000004796 00000 n
+0000005125 00000 n
+0000005284 00000 n
+0000005550 00000 n
+0000005676 00000 n
+0000005842 00000 n
+0000006044 00000 n
+0000006225 00000 n
+0000006473 00000 n
+0000006657 00000 n
+0000006844 00000 n
+0000007059 00000 n
+0000007247 00000 n
+0000007429 00000 n
+0000007590 00000 n
+0000007723 00000 n
+0000014634 00000 n
+0000022367 00000 n
+0000029933 00000 n
+0000035848 00000 n
+0000035980 00000 n
+0000036057 00000 n
+0000036134 00000 n
+0000036211 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\350\345\215\306\270\3334\205\304\256\252\023\204\373\001\021) (\350\345\215\306\270\3334\205\304\256\252\023\204\373\001\021)] 
+ [(\224\334\376\020\(\010\221\362\256{\267\221\001K\3239) (\224\334\376\020\(\010\221\362\256{\267\221\001K\3239)] 
 
- /Info 21 0 R
- /Root 20 0 R
- /Size 43 >>
+ /Info 22 0 R
+ /Root 21 0 R
+ /Size 44 >>
 startxref
-36530
+36258
 %%EOF

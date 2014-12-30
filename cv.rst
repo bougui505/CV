@@ -9,6 +9,8 @@ Curriculum Vitæ
 | 
 | Nationalité française
 | Né le 12/01/1983 à CHARENTON 
+|
+| Pacsé, 1 enfant.
 
 
 ------
@@ -21,26 +23,20 @@ Cursus
 2007-2010
     **Doctorat** au sein de l'équipe de RMN et de modélisation moléculaire encadré par le Dr Gildas Bertho, Laboratoire de Chimie et de Biochimie Pharmacologiques et Toxicologiques (UMR8601 CNRS), en collaboration avec CellVir SAS (Paris). *Étude par RMN et modélisation moléculaire d'inhibiteurs de l'intégrase du VIH-1.*
 
-
 2006-2007
     ENS Cachan : **Master 2** ISFB (Ingénierie Structurale et Fonctionnelle des Biomolécules) ENS Cachan, École polytechnique, INSTN (CEA), Université Paris 5. Unités d'enseignement: Cristallographie des macromolécules biologiques, RMN des macromolécules biologiques, bioinformatique
 
 2005-2006
     ENS Cachan : Préparation à l'agrégation Biochimie Génie Biologique. Obtention de l'**agrégation Biochimie Génie Biologique** (rang 2). 
 
-
 2004-2005
     ENS Cachan : Deuxième année du Magistère de Biotechnologie, **Master 1** de Signalisation Cellulaire & Neurosciences (mention bien).
-
 
 2003-2004
     ENS Cachan : Première année du Magistère de Biotechnologie, **Licence** de Biologie Cellulaire & Physiologie (mention bien).
 
-
 2001-2003
     **Classe préparatoire BCPST** au lycée Marcellin Berthelot (Saint-Maur). Admis en première année à l'**École Normale Supérieure de Cachan**.
-
-
 
 2000-2001
     **Baccalauréat scientifique** spécialité Mathématiques (mention bien).
@@ -48,6 +44,7 @@ Cursus
 ---------------------------
 Enseignement et encadrement
 ---------------------------
+
 2012
     Encadrement d'une stagiaire doctorante (Laboratoire de Virologie, Institut Pasteur du Maroc, Casablanca, Maroc): étude structurale de l'intégrase du VIH-1 par modélisation moléculaire.
 
@@ -128,9 +125,9 @@ Publications et production scientifique
 ---------------------------------------
 
 2014
-    A Cassioli, B Bardiaux, G Bouvier, A Mucherino, R Alves, L Liberti, M Nilges, C Lavor, TE Malliavin. *An algorithm to enumerate all possible protein conformations verifying a set of distance restraints.* BMC Bioinformatics. Submitted.
+    G Bouvier , N Desdouits, M Ferber , A Blondel, M Nilges. *An automatic tool to analyze and cluster macromolecular conformations based on Self-Organizing Maps.* Bioinformatics. Advance access. DOI: http://dx.doi.org/10.1093/bioinformatics/btu849
 
-    M Nivaskumar, G Bouvier, M Campos, X Yu, E H Egelman, M Nilges, O Francetic. *Distinct docking and stabilization steps of the pseudopilus conformational transition path suggest rotational assembly of type IV pilus-like fibers.* Structure. In press. DOI: http://dx.doi.org/10.1016/j.str.2014.03.001
+    M Nivaskumar\*, G Bouvier\*, M Campos, X Yu, E H Egelman, M Nilges, O Francetic (\*co-first authors). *Distinct docking and stabilization steps of the pseudopilus conformational transition path suggest rotational assembly of type IV pilus-like fibers.* Structure. 22(5), 685-696. DOI: http://dx.doi.org/10.1016/j.str.2014.03.001
 
     G Bouvier, N Duclert-Savatier, N Desdouits, D Meziane-Cherif, A Blondel, P Courvalin, M Nilges, TE Malliavin. *Functional motions modulating VanA ligand binding unraveled by self-organizing maps.* Journal of chemical information and modeling. 54(1), 289-301. DOI: http://dx.doi.org/10.1021/ci400354b
 
@@ -170,8 +167,6 @@ Divers
 
 - Langues : **anglais** (lu, écrit et parlé) et **espagnol** (lu)
 - Permis B
-- Loisirs : course à pied, squash, kayak, voile, musique, photographie
-- Vie associative : membre de l'association des plaisanciers du Palus (voile sportive)
 
 ----------
 Références
