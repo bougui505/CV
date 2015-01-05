@@ -124,6 +124,9 @@ Communications par affiche
 Publications et production scientifique
 ---------------------------------------
 
+2015
+    A Cassioli, B Bardiaux, G Bouvier, A Mucherino, R Alves, L Liberti, M Nilges, C Lavor, TE Malliavin. *An algorithm to enumerate all possible protein conformations verifying a set of distance restraints.* BMC Bioinformatics. Accepted for publication.
+
 2014
     G Bouvier , N Desdouits, M Ferber , A Blondel, M Nilges. *An automatic tool to analyze and cluster macromolecular conformations based on Self-Organizing Maps.* Bioinformatics. Advance access. DOI: http://dx.doi.org/10.1093/bioinformatics/btu849
 
