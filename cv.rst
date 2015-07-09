@@ -82,7 +82,7 @@ International conferences
 - Nilges, M., Bouvier, G., Batista, P. R., & Spill, Y. (2013). Structures of Biomolecular Complexes from Heterogeneous Data and Bayesian Data Analysis. Biophysical Journal, 104(2, Supplement 1), 376a. doi:10.1016/j.bpj.2012.11.2089
 
 ----------
-Références
+References
 ----------
 
 | Prof. Michael Nilges
