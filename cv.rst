@@ -1,183 +1,93 @@
-===============
-Curriculum Vitæ
-===============
+=====================================================
+Guillaume Bouvier, PhD in Molecular Modelling and NMR
+=====================================================
 
 | **Guillaume BOUVIER**
 | 
-| Téléphone : 06 08 93 09 94
+| Mobile : +33 (0)6 08 93 09 94
 | E-mail: guillaume.bouvier at ens-cachan.org
 | 
-| Nationalité française
-| Né le 12/01/1983 à CHARENTON 
-|
-| Pacsé, 1 enfant.
+| Nationality: French
+| Date of birth: 12 January 1983
+| Languages: French, English
+| One child
 
 
-------
-Cursus
-------
+---------------------------------
+Education and research experience
+---------------------------------
 
-2010 
-    **Post-doctorat** à l'Institut Pasteur de Paris, équipe de bio-informatique structurale dirigé par le Pr. Michael Nilges. *Détermination d'un modèle à haute résolution du pseudopilus : structure, assemblage et biochimie. Étude statistique des trajectoires de dynamique moléculaire par l'utilisation de réseaux neuronaux de type SOM (Self Organizing Map). Criblage Virtuel.*
+2010
+    **Post-doctoral fellow** with Michael Nilges (FP7-IDEAS-ERC 294809), Institut Pasteur Paris. *Molecular dynamics, ligand docking and virtual screening. Machine learning and non-linear dimensionality reduction of protein conformational space*.
 
 2007-2010
-    **Doctorat** au sein de l'équipe de RMN et de modélisation moléculaire encadré par le Dr Gildas Bertho, Laboratoire de Chimie et de Biochimie Pharmacologiques et Toxicologiques (UMR8601 CNRS), en collaboration avec CellVir SAS (Paris). *Étude par RMN et modélisation moléculaire d'inhibiteurs de l'intégrase du VIH-1.*
+    **D. Phil. in NMR and molecular modelling** with Dr Gildas Bertho, Laboratoire de Chimie et de Biochimie Pharmacologiques et Toxicologiques (UMR8601 CNRS). *NMR and molecular modelling studies of HIV-1 integrase inhibitors*.
 
 2006-2007
-    ENS Cachan : **Master 2** ISFB (Ingénierie Structurale et Fonctionnelle des Biomolécules) ENS Cachan, École polytechnique, INSTN (CEA), Université Paris 5. Unités d'enseignement: Cristallographie des macromolécules biologiques, RMN des macromolécules biologiques, bioinformatique
+    ENS Cachan : **Master 2**; Structural and functional engineering of biomolecules, ENS Cachan, École polytechnique, INSTN (CEA), Université Paris 5.
 
 2005-2006
-    ENS Cachan : Préparation à l'agrégation Biochimie Génie Biologique. Obtention de l'**agrégation Biochimie Génie Biologique** (rang 2). 
+    ENS Cachan : Associate professor of biochemistry.
 
 2004-2005
-    ENS Cachan : Deuxième année du Magistère de Biotechnologie, **Master 1** de Signalisation Cellulaire & Neurosciences (mention bien).
+    ENS Cachan : **Master 1**; neuroscience and cellular signalling.
 
 2003-2004
-    ENS Cachan : Première année du Magistère de Biotechnologie, **Licence** de Biologie Cellulaire & Physiologie (mention bien).
+    ENS Cachan : **Licence**; cellular biology and physiology.
 
 2001-2003
-    **Classe préparatoire BCPST** au lycée Marcellin Berthelot (Saint-Maur). Admis en première année à l'**École Normale Supérieure de Cachan**.
+    **École Normale Supérieure de Cachan** (ENS Cachan): Department of biochemistry.
 
-2000-2001
-    **Baccalauréat scientifique** spécialité Mathématiques (mention bien).
+--------
+Teaching
+--------
+2007-2011
+    Teaching in Université Paris Descartes (260 h):
+    - Tutorials in biochemistry, molecular biology, structural biology and bioinformatics.
+    - Practicals in biochemistry, molecular biology, chemistry and bioinformatics.
+----------------
+Journal articles
+----------------
 
----------------------------
-Enseignement et encadrement
----------------------------
+- Cortes-Ciriano, I., Bouvier, G., Nilges, M., Maragliano, L., & Malliavin, T. E. (2015). Temperature Accelerated Molecular Dynamics with Soft-Ratcheting Criterion Orients Enhanced Sampling by Low-Resolution Information. Journal of Chemical Theory and Computation, 0(0), 0. doi:10.1021/acs.jctc.5b00153
 
-2012
-    Encadrement d'une stagiaire doctorante (Laboratoire de Virologie, Institut Pasteur du Maroc, Casablanca, Maroc): étude structurale de l'intégrase du VIH-1 par modélisation moléculaire.
+- Harigua-Souiai, E., Cortes-Ciriano, I., Desdouits, N., Malliavin, T. E., Guizani, I., Nilges, M., … Bouvier, G. (2015). Identification of binding sites and favorable ligand binding moieties by virtual screening and self-organizing map analysis. BMC Bioinformatics, 16(1), 93. doi:10.1186/s12859-015-0518-z
 
-2012
-    Encadrement d'une stagiaire doctorante (laboratoire d'épidémiologie moléculaire et pathologie expérimentale appliquée aux maladies infectieuses, Institut Pasteur de Tunis, Tunisie): identification et caractérisation in silico de petites molécules anti- Leishmaniennes.
+- Cassioli, A., Bardiaux, B., Bouvier, G., Mucherino, A., Alves, R., Liberti, L., … Malliavin, T. E. (2015). An algorithm to enumerate all possible protein conformations verifying a set of distance constraints. BMC Bioinformatics, 16(1), 23. doi:10.1186/s12859-015-0451-1
 
-2010-2011
-    **Vacations** d'enseignement à l'Université Paris Descartes, U.F.R. Biomédicale des Saints-Pères :
-    - TP de chimie générale, niveau L1 (28 heures)
-    - Techniques de l'information et de la communication (TIC) séances générales et cinétique chimique, niveau L2 (40 heures)
+- Bouvier, G., Duclert-Savatier, N., Desdouits, N., Meziane-Cherif, D., Blondel, A., Courvalin, P., … Malliavin, T. E. (2014). Functional Motions Modulating VanA Ligand Binding Unraveled by Self-Organizing Maps. J. Chem. Inf. Model., 54(1), 289–301. doi:10.1021/ci400354b
 
-2007-2010
-    **Monitorat** (192 heures) Université Paris Descartes, U.F.R. Biomédicale des Saints-Pères : 
+- Nivaskumar, M., Bouvier, G., Campos, M., Nadeau, N., Yu, X., Egelman, E. H., … Francetic, O. (2014). Distinct Docking and Stabilization Steps of the Pseudopilus Conformational Transition Path Suggest Rotational Assembly of Type IV Pilus-like Fibers. Structure, 22(5), 685–696. doi:10.1016/j.str.2014.03.001
 
-    - TD de biochimie, niveau L2 (81 heures)
+- Bouvier, G., Desdouits, N., Ferber, M., Blondel, A., & Nilges, M. (2014). An automatic tool to analyze and cluster macromolecular conformations based on Self-Organizing Maps. Bioinformatics, btu849. doi:10.1093/bioinformatics/btu849
 
-    - TD de biologie moléculaire, biologie structurale et bioinfomatique, niveau L2 (42 heures)
+- Miri, L., Bouvier, G., Kettani, A., Mikou, A., Wakrim, L., Nilges, M., & Malliavin, T. E. (2014). Stabilization of the integrase-DNA complex by Mg2+ ions and prediction of key residues for binding HIV-1 integrase inhibitors: Integrase-DNA Complex and Binding of HIV-1 Integrase Inhibitors. Proteins, 82(3), 466–478. doi:10.1002/prot.24412
 
-    - TP de biologie moléculaire et biochimie, niveau L2 (21 heures)
+- Spill, Y. G., Bouvier, G., & Nilges, M. (2013). A convective replica-exchange method for sampling new energy basins. J. Comput. Chem., 34(2), 132–140. doi:10.1002/jcc.23113
 
-    - Techniques de l'information et de la communication (TIC) en enzymologie et bioinformatique, niveau L2 (48 heures)
+- Mantsyzov, A. B., Bouvier, G., Evrard-Todeschi, N., & Bertho, G. (2012). Contact-based ligand-clustering approach for the identification of active compounds in virtual screening. Adv Appl Bioinform Chem, 5, 61–79. doi:10.2147/AABC.S30881
 
-------
-Stages
-------
-2007
-    Stage de 6 mois au sein du Laboratoire de Chimie et de Biochimie Pharmacologiques et Toxicologiques (UMR 8601 CNRS / Université Paris Descartes). *Étude par RMN et dichroïsme circulaire des peptides synthétiques humains et ovins de la protéine prion.*
+- Bouvier, G., Evrard-Todeschi, N., Girault, J.-P., & Bertho, G. (2010). Automatic clustering of docking poses in virtual screening process using self-organizing map. Bioinformatics, 26(1), 53–60. doi:10.1093/bioinformatics/btp623
 
+- Bertho, G., Bouvier, G., Hoa, G. H. B., & Girault, J.-P. (2008). The key-role of tyrosine 155 in the mechanism of prion transconformation as highlighted by a study of sheep mutant peptides. Peptides, 29(7), 1073–1084. doi:10.1016/j.peptides.2008.03.014
 
-2005
-    Stage de 7 semaines au Laboratoire de Biotechnologies et de Pharmacologie Génétique Appliquée à l'ENS Cachan dans l'Équipe d'enzymologie et de cinétique structurale.
+-------------------------
+International conferences
+-------------------------
 
+- Nilges, M., Nivaskumar, M., Bouvier, G., Campos, M., Egelman, E. H., Yu, X., & Francetic, O. (2014). Structural Basis of Conformational Transitions Involved in Pseudopilus Assembly and Stability. Biophysical Journal, 106(2, Supplement 1), 26a. doi:10.1016/j.bpj.2013.11.197
 
-2004
-    Stage de 8 semaines au sein de l'unité INSERM de pharmacologie cellulaire et moléculaire des récepteurs à l'institut Cochin (Paris).
+- Ciriano, I. C., Bouvier, G., Nilges, M., Maragliano, L., & Malliavin, T. E. (2014). Enhanced Sampling of the Catalytic Domain of the Adenyl Cyclase CyaA from Bordetella Pertussis. Biophysical Journal, 106(2), 610a. doi:10.1016/j.bpj.2013.11.3374
 
-----------------------------
-Communications scientifiques
-----------------------------
-
-Communications orales
-=====================
-
-2014
-    M Nilges, M Nivaskumar, G Bouvier, M Campos, E H Egelman, X Yu, O Francetic. *Structural Basis of Conformational Transitions Involved in Pseudopilus Assembly and Stability.* Biophysical Journal. 106(2), 26a
-
-2013
-    École d'hiver Algorithm in Structural Bioinformatics. *Determination of macromolecular structure and dynamics from experimental data: NMR structure determination as an example.* (http://algosb.sciencesconf.org/)
-
-    M Nilges, G Bouvier, PR Batista, Y Spill. *Structures of Biomolecular Complexes from Heterogeneous Data and Bayesian Data Analysis.* Biophysical Journal. 104(2), 376a
-
-2010
-    Conférence IMTCE : *Criblage virtuel par l'analyse des contacts ligand-récepteur.*
-
-2009
-    Conférence du Groupe d'Étude de Résonance Magnétique (GERM), Fréjus, France. Prix de la meilleure communication orale sponsorisé par la société Varian: *Découverte et étude de nouveaux anti-intégrase du VIH-1 par RMN et criblage virtuel.*
-
-    Conférence RMN du Grand Bassin Parisien, ENS Ulm, Paris, France : *Étude d'interactions ligands-Intégrase VIH-1 par expériences WaterLOGSY et STD.*
-
-Communications par affiche
-==========================
-
-2014
-    I Cortes, G Bouvier, M Nilges, L Maragliano, T E Malliavin. *Enhanced Sampling of the Catalytic Domain of the Adenyl Cyclase CyaA from Bordetella Pertussis.* Biophysical Journal. 106(2), 610a
-
-2010
-    Poster IMTCE : *Nouveaux inhibiteurs de l'intégrase du VIH-1 : Étude parallèle par transfert-RMN et modélisation moléculaire.*
-
-    Poster, Congrès Pasteur/Varian, RMN : un outil pour la biologie IX : *New HIV-1 integrase inhibitors: transfer NMR and in-silico parallel study.*
-
-2009
-    Poster du Groupe d'Étude de Résonance Magnétique (GERM), Fréjus, France : *Découverte et étude de nouveaux anti-intégrase du VIH-1 par RMN et criblage virtuel*.
-
-    Poster, Cambridge Healthtech Institute's Fourth Annual Drug Discovery Chemistry, San Diego, California, USA : *NMR and molecular modeling study of the interactions between HIV-1 integrase or integrase-LEDGF/p75 complex and hits identified*.
-
----------------------------------------
-Publications et production scientifique
----------------------------------------
-
-2015
-    A Cassioli, B Bardiaux, G Bouvier, A Mucherino, R Alves, L Liberti, M Nilges, C Lavor, TE Malliavin. *An algorithm to enumerate all possible protein conformations verifying a set of distance restraints.* BMC Bioinformatics. Accepted for publication.
-
-2014
-    G Bouvier , N Desdouits, M Ferber , A Blondel, M Nilges. *An automatic tool to analyze and cluster macromolecular conformations based on Self-Organizing Maps.* Bioinformatics. Advance access. DOI: http://dx.doi.org/10.1093/bioinformatics/btu849
-
-    M Nivaskumar\*, G Bouvier\*, M Campos, X Yu, E H Egelman, M Nilges, O Francetic (\*co-first authors). *Distinct docking and stabilization steps of the pseudopilus conformational transition path suggest rotational assembly of type IV pilus-like fibers.* Structure. 22(5), 685-696. DOI: http://dx.doi.org/10.1016/j.str.2014.03.001
-
-    G Bouvier, N Duclert-Savatier, N Desdouits, D Meziane-Cherif, A Blondel, P Courvalin, M Nilges, TE Malliavin. *Functional motions modulating VanA ligand binding unraveled by self-organizing maps.* Journal of chemical information and modeling. 54(1), 289-301. DOI: http://dx.doi.org/10.1021/ci400354b
-
-2013
-    L Miri, G Bouvier, A Kettani, A Mikou, L Wakrim, M Nilges, TE Malliavin. *Stabilization of the integrase-DNA complex by Mg2+ ions and prediction of key residues for binding HIV-1 integrase inhibitors.* Proteins: Structure, Function, and Bioinformatics. 82, 466-478. DOI: http://dx.doi.org/10.1002/prot.24412
-
-    Y Spill, G Bouvier, M Nilges. *A convective replica-exchange method for sampling new energy basins.* Journal of Computational Chemistry. 34(2), 132-140. DOI: http://dx.doi.org/10.1002/jcc.23113
-
-2012
-    A Mantsyzov, G Bouvier, N Evrard-Todeschi, G Bertho. *Contact-based ligand-clustering approach for the identification of active compounds in virtual screening.* Advances and Applications in Bioinformatics and Chemistryi. 5, 61-79. DOI: http://dx.doi.org/10.2147/AABC.S30881
-
-2010
-    G Bouvier, N Evrard-Todeschi, J-P Girault, G Bertho. *Automatic clustering of docking poses in virtual screening process using self-organising map.* Bioinformatics. 26(1), 53-60. DOI: http://dx.doi.org/10.1093/bioinformatics/btp623
-
-
-2009
-    Dépôt à l'Agence de Protection des Programmes du logiciel: AuPosSOM (Automatic analysis of Poses using Self-Organizing Map) sous l'IDDN: IDDN.FR.001.260020.000.S.P.2009.000.31235. Site web: https://www.biomedicale.univ-paris5.fr/aupossom
-
-2008
-    G Bertho, G Bouvier, GHB Hoa and J-P Girault. *The key-role of tyrosine 155 in the mechanism of prion transconformation as highlighted by a study of sheep mutant peptides.* Peptides. 29(7), 1073-1084. DOI: http://dx.doi.org/10.1016/j.peptides.2008.03.014
-
-------------
-Informatique
-------------
-
-- Développement d'application pour la bioinformatique (criblage virtuel, analyse structurale) en python (logiciel AuPosSOM)
-- Logiciels de RMN et bioinformatique : ARIA, XWinNMR, NMR notebook, AutoDock, UCSF-Dock, Sybyl, Surflex, pymol, chimera, blast, gromacs, AMBER, haddock, modeller
-- Bureautique : Microsoft Office, Open Office et \LaTeX
-- Langages de programmation : Python, Matlab, Scilab, scripts bash et zsh
-- Développement d'outils internet (https://www.biomedicale.univ-paris5.fr/aupossom)
-- Systèmes d'exploitation : Linux, macOS et Microsoft Windows
-- Système de queue SGE (Sun Grid Engine)
-
-------
-Divers
-------
-
-- Langues : **anglais** (lu, écrit et parlé) et **espagnol** (lu)
-- Permis B
+- Nilges, M., Bouvier, G., Batista, P. R., & Spill, Y. (2013). Structures of Biomolecular Complexes from Heterogeneous Data and Bayesian Data Analysis. Biophysical Journal, 104(2, Supplement 1), 376a. doi:10.1016/j.bpj.2012.11.2089
 
 ----------
 Références
 ----------
 
 | Prof. Michael Nilges
-| Directeur du département de biologie structurale et chimie
-| Chef de l'unité de bioinformatique structurale
+| Département de biologie structurale et chimie
+| Unité de bioinformatique structurale
 | Institut Pasteur de Paris
 | michael.nilges@pasteur.fr
 
